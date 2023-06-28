@@ -1,16 +1,5 @@
 Shopping List
 
-apples
-bananas
-yogurt
-milk
-bread
-cereal
-eggs
-bacon
-orange juice
-grapes
-lemons
 lettuce
 rice
 soup
