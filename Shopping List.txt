@@ -1,5 +1,7 @@
 Shopping List
 
+beer
+limon
 lettuce
 rice
 soup
